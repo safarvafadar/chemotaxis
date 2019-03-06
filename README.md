@@ -14,9 +14,12 @@ Vafadar, Kavousi, Safdari, Kalirad, Sadeghi. A Hierarchical approach to Model de
 
 +SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
 
-+SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
-
-+SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
 
 
-+ k1_2_k2_100_2_fin.txt: 
++ConcentrationAngle.ipynb: ipython notebook to generate Figures 3.
+
++AngleDistanceCorrelation.ipynb: ipython notebook to generate Figures 4.
+
++SixflagellaCheYp.ipynb: ipython notebook to generate Figures 5.
+
++FlagellumCheY.ipynb: ipython notebook to generate Figures 7.
