@@ -10,11 +10,9 @@ Vafadar, Kavousi, Safdari, Kalirad, Sadeghi. A Hierarchical approach to Model de
 + ChemotaxisSimulator.zip: The model implemented in C#.NET Framework 4.
 
 + a.csv: The results from the game-theoretical analysis.
-+ aaa.csv: The results from the game-theoretical analysis.
++ SixflagellaCheYpRandomly.csv: The results from the six flagella correaltion analysis.(Figure 10)
 
 +SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
-
-
 
 +ConcentrationAngle.ipynb: ipython notebook to generate Figures 3.
 
@@ -23,3 +21,7 @@ Vafadar, Kavousi, Safdari, Kalirad, Sadeghi. A Hierarchical approach to Model de
 +SixflagellaCheYp.ipynb: ipython notebook to generate Figures 5.
 
 +FlagellumCheY.ipynb: ipython notebook to generate Figures 7.
+
++BetaCharts.ipynb: ipython notebook to generate Figures 8.
+
++6flagellaCorrelation.ipynb: ipython notebook to generate Figures 10.
