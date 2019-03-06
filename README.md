@@ -12,16 +12,16 @@ Vafadar, Kavousi, Safdari, Kalirad, Sadeghi. A Hierarchical approach to Model de
 + a.csv: The results from the game-theoretical analysis.
 + SixflagellaCheYpRandomly.csv: The results from the six flagella correaltion analysis.(Figure 10)
 
-+SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
++ SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
 
-+ConcentrationAngle.ipynb: ipython notebook to generate Figures 3.
++ ConcentrationAngle.ipynb: ipython notebook to generate Figures 3.
 
-+AngleDistanceCorrelation.ipynb: ipython notebook to generate Figures 4.
++ AngleDistanceCorrelation.ipynb: ipython notebook to generate Figures 4.
 
-+SixflagellaCheYp.ipynb: ipython notebook to generate Figures 5.
++ SixflagellaCheYp.ipynb: ipython notebook to generate Figures 5.
 
-+FlagellumCheY.ipynb: ipython notebook to generate Figures 7.
++ FlagellumCheY.ipynb: ipython notebook to generate Figures 7.
 
-+BetaCharts.ipynb: ipython notebook to generate Figures 8.
++ BetaCharts.ipynb: ipython notebook to generate Figures 8.
 
-+6flagellaCorrelation.ipynb: ipython notebook to generate Figures 10.
++ 6flagellaCorrelation.ipynb: ipython notebook to generate Figures 10.
