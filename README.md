@@ -13,7 +13,9 @@ Vafadar, Kavousi, Safdari, Kalirad, Sadeghi. A Hierarchical approach to Model de
 + aaa.csv: The results from the game-theoretical analysis.
 
 +SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
+
 +SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
+
 +SixflagellaCheYp.ipynb: ipython notebook to generate Figures 2.
 
 
